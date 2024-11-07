@@ -20,7 +20,7 @@ Current Version of Code is in DS440_Enhanced_Implementation_FINAL_version.ipynb 
 - **Chance for player with ball to "blow by" defenders** Defenders set to algorithmically play man coverage on Players based on assignments, "blowing by" defender allows greater chance to score
 - **Shot Made, Shot Missed, Ball Lost, Pass Intercepted** are the 4 terminal states for a given episode/"Step", by default runs for 100 Steps
 - **Ball position denoted by yellow 'X' mark in video** player who has ball is highlighted in cyan amongst blue teammates
-- **Timelapse video generated** showing results after each step at the end of training, shows shooting percentage, pass completion percentage, amount of balls lost, last terminal action, etc
+- **Timelapse video generated** showing results after each step at the end of training, shows shooting proportion, passes completed and intercepted, amount of balls lost, last terminal action, etc
 
 ## Prerequisites
 

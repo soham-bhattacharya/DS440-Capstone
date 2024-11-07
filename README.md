@@ -80,5 +80,3 @@ Runs the main training loop, where each step ends in a terminal action: shooting
 Compiles the saved frames into a time-lapse video to visualize the training. Each frame represents a single step, allowing a sequential review of player actions and training progress.
 
 --- 
-
-This completes the function-by-function breakdown of the code.

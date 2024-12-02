@@ -3,9 +3,9 @@ Basketball Reinforcement Learning Environment for DS440 Capstone Project
 
 **Note:** Must download basketball_court_half.png image as well as ALL of the UI files, and copy the path of wherever they are saved into the corresponding lines of the code before running
 
-Ideally, save the basketball_court_half.png, all the UI files in the UI_files folder in this Github, DS440-frontend-v6.py, and DS440_backend_final_v5.py in the same location when running, or else the path access will not work as smoothly
+Save the basketball_court_half.png, all the UI files in the UI_files folder in this Github, DS440-frontend-v6.py, and DS440_backend_final_v5.py in the same location when running, otherwise path access will not work
 
-Current Versions of code are in the DS440-frontend-v6.py file and the DS440_backend_final_v5.py file, you must save both of these too. The backend can be run on its own with default settings
+Current Versions of code are in the DS440-frontend-v8.py file for frontend and the DS440_backend_final_v5.py file for backend. The backend can be run on its own with default settings
 
 ## Table of Contents
 
